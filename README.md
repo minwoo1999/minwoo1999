@@ -4,18 +4,21 @@
   
 ### Who Am I
 
-
-
-- 🌱 저는 현재 `spring`, `springboot`, `oracle,mysql`,'javascript','jpa'을 배우는 중 입니다.
 - 🥇 저는 소프트웨어를 전공하였습니다.
 - 🔥 백엔드 개발자를 꿈꾸고 있습니다.
+
+- <h2>BACKEND</h2> JPA,SPRING,SPRING BOOT,Thymeleaf
+- <h2>DATABASE</h2> ORACLE,MYSQL
+- <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
+- 
+
 <br><br>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsserver">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=minwoo1999" height="165">
-<br><br>
 
 
 
+<br><br><br><br><br><br><br><br><br><br>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
