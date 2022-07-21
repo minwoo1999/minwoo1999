@@ -11,6 +11,12 @@
 - <h2>DATABASE</h2> ORACLE,MYSQL
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 - 
+### certificate 
+
+-<h2>정보처리산업기사</h2>
+-<h2>네트워크관리사</h2>
+-<h2>컴퓨터활용능력2급</h2>
+-<h2>SQLD 취득예정</h2>
 
 <br><br>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsserver">
