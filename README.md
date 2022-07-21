@@ -1,5 +1,5 @@
 ### 안녕하세요 백엔드 개발자를 꿈꾸는 김민우입니다. 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsserver)](https://solved.ac/kbsserver/)
 <!--
 **minwoo1999/minwoo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,5 +62,5 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsserver)](https://solved.ac/kbsserver/)
+
 
