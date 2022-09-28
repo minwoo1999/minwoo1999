@@ -12,7 +12,7 @@
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 - 
 ### certificate 
-- <h2>certificate</h2> 정보처리산업기사,컴활2급,네트워크관리사,SQLD예정
+- <h2>certificate</h2> 정보처리산업기사,컴활2급,네트워크관리사,SQLD
 
 
 
