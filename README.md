@@ -20,6 +20,10 @@
 -2022년전문인재기술장학생(한국장학재단 및 교육부장관수상)
 
 
+### 블로그
+
+-https://minwoo-it-factory.tistory.com/
+
 
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsserver)](https://solved.ac/kbsserver/)
