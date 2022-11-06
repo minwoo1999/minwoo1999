@@ -9,7 +9,7 @@ https://infruntest.s3.ap-northeast-2.amazonaws.com/infrun.mp4
 - 🥇 저는 소프트웨어를 전공하였습니다.
 - 🔥 백엔드 개발자를 꿈꾸고 있습니다.
 
-- <h2>BACKEND</h2> JPA,SPRING,SPRING BOOT,Thymeleaf,AWS S3,AWS EC2,AJAX,SOKET.IO,Ubuntu
+- <h2>BACKEND</h2> JPA,SPRING,SPRING BOOT,Thymeleaf,AWS S3,AWS EC2,AJAX,SOKET.IO,Ubuntu.Docker
 - <h2>DATABASE</h2> ORACLE,MYSQL,AWS RDS
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 
