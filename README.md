@@ -10,11 +10,16 @@ https://infruntest.s3.ap-northeast-2.amazonaws.com/infrun.mp4
 -  backend developer
 
 - <h2>BACKEND</h2> 
-- JPA,SPRING,SPRING BOOT,Thymeleaf,AWS S3,AWS EC2,AJAX,SOKET.IO,Ubuntu.Docker
+- JPA,SPRING,SPRING BOOT,Thymeleaf,AJAX,SOKET.IO,Ubuntu
 - Node.js,Express.js,DongoDB
 - <h2>DATABASE</h2> ORACLE,MYSQL,AWS RDS
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 
+- <h2>Infra</h2> 
+  -AWS S3,AWS EC2
+  
+- <h2>Container</h2> 
+- -Docker
 
 ### certificate 
 
