@@ -29,6 +29,8 @@ https://infruntest.s3.ap-northeast-2.amazonaws.com/infrun.mp4
 
 -2022년전문인재기술장학생(한국장학재단 및 교육부장관수상)
 
+-2022년 캡스톤디자인 대상(졸업작품 대상)
+
 
 ### 블로그
 
