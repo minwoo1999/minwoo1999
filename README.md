@@ -36,6 +36,9 @@ https://infruntest.s3.ap-northeast-2.amazonaws.com/infrun.mp4
 
 -https://minwoo-it-factory.tistory.com/
 
+### Notion
+-https://www.notion.so/3e9e74f4a9ea4357add7795f44e990d6
+
 
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsserver)](https://solved.ac/kbsserver/)
