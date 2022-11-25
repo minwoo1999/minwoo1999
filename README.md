@@ -13,12 +13,12 @@
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 
 - <h2>Infra</h2> 
-  - AWS S3,AWS EC2
+  * AWS S3,AWS EC2
   
 - <h2>Container</h2> 
-   - Docker
+   * Docker
 - <h2>DevOps</h2>
-   - Jenkins
+   * Jenkins
    
 ### certificate 
 
