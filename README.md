@@ -11,7 +11,7 @@
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 - <h2>Infra</h2> AWS S3,AWS EC2
 - <h2>Container</h2> Docker
-- <h2>DevOps</h2> Jenkins
+- <h2>DevOps</h2> Jenkins,GitHub Action
 - <h2>certificate</h2> 정보처리산업기사,컴활2급,네트워크관리사,SQLD
 
 ### 수상내역
