@@ -6,9 +6,7 @@
 -  I majored in software.
 -  backend developer
 
-- <h2>BACKEND</h2> 
-- JPA,SPRING,SPRING BOOT,Thymeleaf,AJAX,SOKET.IO,Ubuntu
-- Node.js,Express.js
+- <h2>BACKEND</h2>  JPA,SPRING,SPRING BOOT,Thymeleaf,AJAX,SOKET.IO,Ubuntu,Node.js,Express.js
 - <h2>DATABASE</h2> ORACLE,MYSQL,AWS RDS,DongoDB
 - <h2>FRONT</h2> CSS,HTML,JAVASCRIPT,BOOTSTRAP,JQUERY
 - <h2>Infra</h2> AWS S3,AWS EC2
