@@ -17,7 +17,9 @@
   
 - <h2>Container</h2> 
    -Docker
-
+- <h2>DevOps</h2>
+   -Jenkins
+   
 ### certificate 
 
 - <h2>certificate</h2> 정보처리산업기사,컴활2급,네트워크관리사,SQLD
