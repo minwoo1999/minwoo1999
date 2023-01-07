@@ -1,11 +1,14 @@
 # MINWOO 😉
 
   
-### Who Am I
 
--  I majored in software.
--  backend developer
+-  저는 소프트웨어를 전공하였습니다.
+-  백엔드 개발분야에 관심을 가지고 공부하고 있습니다.
+-  Spring FrameWork , Devops, CI/CD, Infra 에 관심을 가지고 공부하고 있습니다.
 
+### 기술스택은 다음과 같습니다.
+
+<img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=#6DB33F&logoColor=white">
 
 ### 블로그
 
