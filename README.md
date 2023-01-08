@@ -7,6 +7,13 @@
 -  Spring FrameWork , Devops, CI/CD, Infra 에 관심을 가지고 공부하고 있습니다.
 -  JPA ,Jenkins, AWS, Docker, AWS 등등을 공부하고 있습니다. 
 
+- 현재 공부하고 있는분야
+
+* 쿠버네티스
+
+* JPA Data
+
+
 ### 블로그
 
 -https://minwoo-it-factory.tistory.com/
