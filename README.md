@@ -18,7 +18,7 @@
 
 ### 블로그
 
--https://minwoo-it-factory.tistory.com/
+[-https://minwoo-it-factory.tistory.com/](https://minwoo-it-factory.tistory.com/category)
 
 ### Notion
 -https://www.notion.so/3e9e74f4a9ea4357add7795f44e990d6
