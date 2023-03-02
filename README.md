@@ -15,7 +15,6 @@
 
 * JPA Data
 
-* SW MAESTRO
 
 
 <br><br>
