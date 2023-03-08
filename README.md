@@ -9,8 +9,6 @@
 
 ### Currently studying 😉 
 
-* k8s
-
 * AWS
 
 * JPA Data
