@@ -11,7 +11,7 @@
 
 * AWS
 
-* JPA Data
+* MSA
 
 * k8s
 
