@@ -15,7 +15,7 @@
 
 * k8s
 
-* react 
+* redis 
 
 
 
