@@ -8,9 +8,9 @@
 
 ### Currently studying 😉 
 
-* AWS
+* kafka
 
-* k8s
+* DDD
 
 * cleanCode
 
