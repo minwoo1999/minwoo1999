@@ -8,8 +8,6 @@
 
 ### Currently studying 😉 
 
-* kafka
-
 * DDD
 
 * cleanCode
