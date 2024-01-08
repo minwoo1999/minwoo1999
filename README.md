@@ -1,10 +1,9 @@
 # MINWOO 😉
 
   
-
--  저는 소프트웨어를 전공하였습니다.
--  백엔드 개발분야에 관심을 가지고 공부하고 있습니다.
--  Spring FrameWork , Devops, CI/CD, Aws 기반 Infra에 관심을 가지고 공부하고 있습니다.
+- I majored in software engineering.
+- I am interested in and studying backend development.
+- I have a focus on learning Spring Framework, DevOps, CI/CD, and AWS-based infrastructure.
 
 ### Currently studying 😉 
 
