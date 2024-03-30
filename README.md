@@ -1,15 +1,17 @@
-# MINWOO 😉
+# MINWOO 
 
   
 - I majored in software engineering.
 - I am interested in and studying backend development.
 - I have a focus on learning Spring Framework, DevOps, CI/CD, and AWS-based infrastructure.
 
-### Currently studying 😉 
+### Currently studying 
 
 * DDD
 
 * cleanCode
+
+* advanced java
 
 
 <br><br>
