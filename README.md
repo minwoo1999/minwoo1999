@@ -20,10 +20,10 @@
 
 ### Currently studying 
 
-* DDD
+* TypeScript
 
-* cleanCode
-
+* .net core c# 
+ 
 * advanced java
 
 
