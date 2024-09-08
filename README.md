@@ -16,7 +16,7 @@
 ### 사이드 프로젝트 ING... 
 
 - https://www.rework.im/
-- https://new-flowbit-client.vercel.app/
+- https://flowbit.co.kr
 
 ### Currently studying 
 
