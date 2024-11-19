@@ -20,9 +20,9 @@
 
 ### Currently studying 
 
-* TypeScript
+* aws
 
-* .net core c# 
+* mysql
  
 * advanced java
 
