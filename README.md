@@ -13,11 +13,6 @@
 - I am interested in and studying backend development.
 - I have a focus on learning Spring Framework, DevOps, CI/CD, and AWS-based infrastructure.
 
-### 사이드 프로젝트 ING... 
-
-- https://www.rework.im/
-- https://flowbit.co.kr
-
 ### Currently studying 
 
 * aws
