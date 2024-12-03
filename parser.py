@@ -8,8 +8,13 @@ feed_list = ["https://minwoo-it-factory.tistory.com?minwoo"]
 markdown_text = """
 <div align="center">
   
-<img src="https://render.gitanimals.org/lines/klmhyeonwoo?pet-id=590059497944971134" width="1000" height="240"/>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/minwoo1999"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 ## klm min woo
@@ -63,13 +68,6 @@ for post in recent_posts:
 # 추가 내용
 markdown_text += """
 <br><br>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/minwoo1999"
-  width="600"
-  height="300"
-/>
-</a>
 
 # MINWOO 
 
