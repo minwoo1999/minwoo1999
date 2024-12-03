@@ -69,7 +69,7 @@ for post in recent_posts:
 markdown_text += """
 <br><br>
 
-# MINWOO 
+### INTRODUCE
 
   
 - I majored in software engineering.
