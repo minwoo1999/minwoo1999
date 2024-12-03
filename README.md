@@ -22,7 +22,7 @@
 
 <br><br>
 
-# MINWOO 
+### INTRODUCE
 
   
 - I majored in software engineering.
