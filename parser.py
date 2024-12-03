@@ -22,6 +22,8 @@ markdown_text = """
 <span style="color:#4E5968; font-size:10px;">
 
 ### 최근 포스팅
+<span style="color:#4E5968; font-size:10px;">
+
 """
 
 lst = []
@@ -67,9 +69,9 @@ for post in recent_posts:
 
 # 추가 내용
 markdown_text += """
-<br><br>
 
 ### INTRODUCE
+<span style="color:#4E5968; font-size:10px;">
 
   
 - I majored in software engineering.
@@ -77,6 +79,7 @@ markdown_text += """
 - I have a focus on learning Spring Framework, DevOps, CI/CD, and AWS-based infrastructure.
 
 ### Currently studying 
+<span style="color:#4E5968; font-size:10px;">
 
 * aws
 
