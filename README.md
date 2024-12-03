@@ -1,8 +1,13 @@
 
 <div align="center">
   
-<img src="https://render.gitanimals.org/lines/klmhyeonwoo?pet-id=590059497944971134" width="1000" height="240"/>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/minwoo1999"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 ## klm min woo
@@ -16,13 +21,6 @@
 - [스프링 첫요청이 처리되는데 오래 걸리는 이유](https://minwoo-it-factory.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%B2%AB%EC%9A%94%EC%B2%AD%EC%9D%B4-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EB%8D%B0-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9D%B4%EC%9C%A0)<br>
 
 <br><br>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/minwoo1999"
-  width="600"
-  height="300"
-/>
-</a>
 
 # MINWOO 
 
