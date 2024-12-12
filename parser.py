@@ -24,10 +24,9 @@ markdown_text = """
 ## Contribution
 
 ### Spring boot
-Add Date and UUID deserialization support in nullSafeValue method (https://github.com/spring-projects/spring-boot/issues/42972)
+- Add Date and UUID deserialization support in nullSafeValue method (https://github.com/spring-projects/spring-boot/issues/42972)
 
-### Spring boot
-Add test for nullSafeValue with mapper transformation (https://github.com/spring-projects/spring-boot/pull/43441)
+- Add test for nullSafeValue with mapper transformation (https://github.com/spring-projects/spring-boot/pull/43441)
 
 
 <span style="color:#4E5968; font-size:10px;">
