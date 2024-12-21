@@ -19,6 +19,10 @@
 
 - Add test for nullSafeValue with mapper transformation (https://github.com/spring-projects/spring-boot/pull/43441)
 
+### Contribution - Redis lettuce
+
+- replace hardcoded GT and LT with CommandKeyword enum (https://github.com/redis/lettuce/pull/3079)
+
 ### 최근 포스팅
 <span style="color:#4E5968; font-size:10px;">
 
