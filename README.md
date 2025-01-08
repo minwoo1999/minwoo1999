@@ -21,6 +21,9 @@
 
 - Add test for nullSafeValue with mapper transformation (https://github.com/spring-projects/spring-boot/pull/43441)
 
+### Contribution - Spring Data Jpa
+- Refactor: Remove unused query parameter in getCountQuery method(https://github.com/spring-projects/spring-data-jpa/pull/3719)
+
 ### Contribution - Redis lettuce
 
 - replace hardcoded GT and LT with CommandKeyword enum (https://github.com/redis/lettuce/pull/3079)
