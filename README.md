@@ -31,10 +31,10 @@
 ### 최근 포스팅
 <span style="color:#4E5968; font-size:10px;">
 
-- [Effective java 정복기 2장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-2%EC%9E%A5)<br>
-- [Effective java 정복기 1장](https://minwoo-it-factory.tistory.com/entry/%EC%B7%A8%EB%BD%80%EA%B8%B0%EB%85%90-Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0)<br>
+- [Effective java 정복기 4장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-4%EC%9E%A5)<br>
+- [Effective java 정복기 3장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-2%EC%9E%A5)<br>
+- [Effective java 정복기 2장](https://minwoo-it-factory.tistory.com/entry/%EC%B7%A8%EB%BD%80%EA%B8%B0%EB%85%90-Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0)<br>
 - [2024년 연말회고 그리고 Spring boot 오픈소스기여](https://minwoo-it-factory.tistory.com/entry/2024%EB%85%84-%EC%97%B0%EB%A7%90%ED%9A%8C%EA%B3%A0)<br>
-- [ParallelStream은 무엇일까?](https://minwoo-it-factory.tistory.com/entry/ParallelStream%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)<br>
 
 
 ### INTRODUCE

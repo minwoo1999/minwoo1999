@@ -1,62 +1,62 @@
 {
 	"feed-0": {
-		"title": "Effective java 정복기 2장",
+		"title": "Effective java 정복기 4장",
+		"link": "https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-4%EC%9E%A5",
+		"date": "Jan 09, 2025",
+		"writer": "minwoo"
+	},
+	"feed-1": {
+		"title": "Effective java 정복기 3장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-2%EC%9E%A5",
 		"date": "Jan 06, 2025",
 		"writer": "minwoo"
 	},
-	"feed-1": {
-		"title": "Effective java 정복기 1장",
+	"feed-2": {
+		"title": "Effective java 정복기 2장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/%EC%B7%A8%EB%BD%80%EA%B8%B0%EB%85%90-Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0",
 		"date": "Jan 03, 2025",
 		"writer": "minwoo"
 	},
-	"feed-2": {
+	"feed-3": {
 		"title": "2024년 연말회고 그리고 Spring boot 오픈소스기여",
 		"link": "https://minwoo-it-factory.tistory.com/entry/2024%EB%85%84-%EC%97%B0%EB%A7%90%ED%9A%8C%EA%B3%A0",
 		"date": "Dec 03, 2024",
 		"writer": "minwoo"
 	},
-	"feed-3": {
+	"feed-4": {
 		"title": "ParallelStream은 무엇일까?",
 		"link": "https://minwoo-it-factory.tistory.com/entry/ParallelStream%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C",
 		"date": "Dec 01, 2024",
 		"writer": "minwoo"
 	},
-	"feed-4": {
+	"feed-5": {
 		"title": "Redis가 싱글스레드임에도 높은 성능을 보장하는이유",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Redis%EA%B0%80-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9E%84%EC%97%90%EB%8F%84-%EB%86%92%EC%9D%80-%EC%84%B1%EB%8A%A5%EC%9D%84-%EB%B3%B4%EC%9E%A5%ED%95%98%EB%8A%94%EC%9D%B4%EC%9C%A0",
 		"date": "Nov 30, 2024",
 		"writer": "minwoo"
 	},
-	"feed-5": {
+	"feed-6": {
 		"title": "스프링 첫요청이 처리되는데 오래 걸리는 이유",
 		"link": "https://minwoo-it-factory.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%B2%AB%EC%9A%94%EC%B2%AD%EC%9D%B4-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EB%8D%B0-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9D%B4%EC%9C%A0",
 		"date": "Nov 25, 2024",
 		"writer": "minwoo"
 	},
-	"feed-6": {
+	"feed-7": {
 		"title": "Map 불변성과 순서를 보장하고싶을 때 어떻게 해야할까",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Map-%EB%B6%88%EB%B3%80%EC%84%B1%EA%B3%BC-%EC%88%9C%EC%84%9C%EB%A5%BC-%EB%B3%B4%EC%9E%A5%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%84-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C",
 		"date": "Nov 11, 2024",
 		"writer": "minwoo"
 	},
-	"feed-7": {
+	"feed-8": {
 		"title": "DI 시 빈이 여러개일 경우 , 여러개의 Interface를 상속받은 경우",
 		"link": "https://minwoo-it-factory.tistory.com/entry/DI-%EC%8B%9C-%EB%B9%88%EC%9D%B4-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%BC-%EA%B2%BD%EC%9A%B0-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%98-Interface%EB%A5%BC-%EC%83%81%EC%86%8D%EB%B0%9B%EC%9D%80-%EA%B2%BD%EC%9A%B0",
 		"date": "Nov 04, 2024",
 		"writer": "minwoo"
 	},
-	"feed-8": {
+	"feed-9": {
 		"title": "Docker Mysql 테스트서버 DB분리",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Docker-Mysql-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-DB%EB%B6%84%EB%A6%AC",
 		"date": "Jun 07, 2024",
-		"writer": "minwoo"
-	},
-	"feed-9": {
-		"title": "Statement보다 PreparedStatement를 사용해야하는이유",
-		"link": "https://minwoo-it-factory.tistory.com/entry/Statement%EB%B3%B4%EB%8B%A4-PreparedStatement%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%EC%9D%B4%EC%9C%A0",
-		"date": "Jun 06, 2024",
 		"writer": "minwoo"
 	}
 }
