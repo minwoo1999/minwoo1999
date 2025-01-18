@@ -27,6 +27,7 @@
 ### Contribution - Redis lettuce
 
 - replace hardcoded GT and LT with CommandKeyword enum (https://github.com/redis/lettuce/pull/3079)
+  
 - docs: update Limitations section to reflect shaded JAR deprecation (https://github.com/redis/lettuce/pull/3095)
 
 ### 최근 포스팅
