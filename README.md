@@ -47,6 +47,9 @@
 - I am interested in and studying backend development.
 - I have a focus on learning Spring Framework, DevOps, CI/CD, and AWS-based infrastructure.
 
+### CONTACT
+- Email: hmg5959@gmail.com
+
 ### Currently studying 
 <span style="color:#4E5968; font-size:10px;">
 
