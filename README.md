@@ -27,7 +27,7 @@
 ### Contribution - Redis lettuce
 
 - replace hardcoded GT and LT with CommandKeyword enum (https://github.com/redis/lettuce/pull/3079)
-  
+
 - docs: update Limitations section to reflect shaded JAR deprecation (https://github.com/redis/lettuce/pull/3095)
 
 ### 최근 포스팅
@@ -47,9 +47,6 @@
 - I am interested in and studying backend development.
 - I have a focus on learning Spring Framework, DevOps, CI/CD, and AWS-based infrastructure.
 
-### CONTACT
-- Email: hmg5959@gmail.com
-
 ### Currently studying 
 <span style="color:#4E5968; font-size:10px;">
 
@@ -58,6 +55,9 @@
 * mysql
  
 * advanced java
+
+### CONTACT
+- Email: hmg5959@gmail.com
 
 
 <br><br>
