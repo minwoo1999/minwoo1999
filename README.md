@@ -33,10 +33,10 @@
 ### 최근 포스팅
 <span style="color:#4E5968; font-size:10px;">
 
+- [AWS Certified Solutions Architect - Associate (SAA-C03) 합격 후기](https://minwoo-it-factory.tistory.com/entry/AWS-Certified-Solutions-Architect-Associate-SAA-C03-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)<br>
 - [Effective java 정복기 6장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-6%EC%9E%A5)<br>
 - [Effective java 정복기 5장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-5%EC%9E%A5)<br>
 - [Effective java 정복기 4장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-4%EC%9E%A5)<br>
-- [Effective java 정복기 3장](https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-2%EC%9E%A5)<br>
 
 
 ### INTRODUCE
