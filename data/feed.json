@@ -6,57 +6,57 @@
 		"writer": "minwoo"
 	},
 	"feed-1": {
+		"title": "YAPP 직장인 동아리 서류합격 및 면접후기",
+		"link": "https://minwoo-it-factory.tistory.com/entry/YAPP-Mash-up-%EC%A7%81%EC%9E%A5%EC%9D%B8-%EB%8F%99%EC%95%84%EB%A6%AC-%EC%84%9C%EB%A5%98%ED%95%A9%EA%B2%A9-%EB%B0%8F-%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0",
+		"date": "May 01, 2025",
+		"writer": "minwoo"
+	},
+	"feed-2": {
 		"title": "CKA 자격증 공부",
 		"link": "https://minwoo-it-factory.tistory.com/entry/CKA-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EA%B3%B5%EB%B6%80",
 		"date": "Apr 12, 2025",
 		"writer": "minwoo"
 	},
-	"feed-2": {
+	"feed-3": {
 		"title": "AWS Certified Solutions Architect - Associate (SAA-C03) 합격 후기",
 		"link": "https://minwoo-it-factory.tistory.com/entry/AWS-Certified-Solutions-Architect-Associate-SAA-C03-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0",
 		"date": "Apr 02, 2025",
 		"writer": "minwoo"
 	},
-	"feed-3": {
+	"feed-4": {
 		"title": "Effective java 정복기 6장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-6%EC%9E%A5",
 		"date": "Mar 15, 2025",
 		"writer": "minwoo"
 	},
-	"feed-4": {
+	"feed-5": {
 		"title": "Effective java 정복기 5장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-5%EC%9E%A5",
 		"date": "Feb 23, 2025",
 		"writer": "minwoo"
 	},
-	"feed-5": {
+	"feed-6": {
 		"title": "Reactor Netty HTTP Client Connection",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Reactor-Netty-HTTP-Client-Connection",
 		"date": "Feb 06, 2025",
 		"writer": "minwoo"
 	},
-	"feed-6": {
+	"feed-7": {
 		"title": "Effective java 정복기 4장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-4%EC%9E%A5",
 		"date": "Jan 09, 2025",
 		"writer": "minwoo"
 	},
-	"feed-7": {
+	"feed-8": {
 		"title": "Effective java 정복기 3장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0-2%EC%9E%A5",
 		"date": "Jan 06, 2025",
 		"writer": "minwoo"
 	},
-	"feed-8": {
+	"feed-9": {
 		"title": "Effective java 정복기 2장",
 		"link": "https://minwoo-it-factory.tistory.com/entry/%EC%B7%A8%EB%BD%80%EA%B8%B0%EB%85%90-Effective-java-%EC%A0%95%EB%B3%B5%EA%B8%B0",
 		"date": "Jan 03, 2025",
-		"writer": "minwoo"
-	},
-	"feed-9": {
-		"title": "2024년 연말회고 그리고 Spring boot 오픈소스기여",
-		"link": "https://minwoo-it-factory.tistory.com/entry/2024%EB%85%84-%EC%97%B0%EB%A7%90%ED%9A%8C%EA%B3%A0",
-		"date": "Dec 03, 2024",
 		"writer": "minwoo"
 	}
 }
