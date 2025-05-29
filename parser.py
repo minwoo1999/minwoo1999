@@ -78,7 +78,7 @@ for BLOG_URL in feed_list:
 parsing_data = dict(sorted(parsing_data.items(), key=lambda item: datetime.datetime.strptime(item[1]['date'], '%b %d, %Y'), reverse=True))
 
 # 최근 포스팅 4개 가져오기
-recent_posts = list(parsing_data.values())[:4]
+recent_posts = list(parsing_data.values())[:6]
 
 for post in recent_posts:
     markdown_text += f"- [{post['title']}]({post['link']})<br>\n"
