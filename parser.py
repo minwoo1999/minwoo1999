@@ -23,6 +23,9 @@ markdown_text = """
 
 <span style="color:#4E5968; font-size:10px;">
 
+### yorkie
+- Add project API key rotation to enhance security (https://github.com/yorkie-team/yorkie/pull/1296)
+
 ### Contribution - Spring boot
 - Add Date and UUID deserialization support in nullSafeValue method (https://github.com/spring-projects/spring-boot/issues/42972)
 
