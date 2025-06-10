@@ -51,7 +51,7 @@ I strive to deeply understand both technology and product context to build meani
   → *Spring Boot, Flask, Mysql, AWS
 
 - **FlowBit** *(May 2024 – Dec 2024)*  
-  → *Spring Boot, Microservices Architecture, MongoDB, MySQL, Docker*
+  → *Spring Boot, Microservices Architecture, ApiGateway, Spring batch, MongoDB, MySQL, Docker*
 ---
 
 ## 🏅 Awards & Contributions
