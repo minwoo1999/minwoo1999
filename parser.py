@@ -18,27 +18,66 @@ markdown_text = """
 </div>
 
 
+<div align="center">
 
-## klm min woo
+# 👨‍💻 Minwoo Kim | Software Engineer
 
-<span style="color:#4E5968; font-size:10px;">
+A software engineer who enjoys collaboration and embraces new challenges.  
+I strive to deeply understand both technology and product context to build meaningful services.
 
-### Contribution - yorkie
-- Add project API key rotation to enhance security (https://github.com/yorkie-team/yorkie/pull/1296)
+</div>
 
-### Contribution - Spring boot
-- Add Date and UUID deserialization support in nullSafeValue method (https://github.com/spring-projects/spring-boot/issues/42972)
+---
 
-- Add test for nullSafeValue with mapper transformation (https://github.com/spring-projects/spring-boot/pull/43441)
+## 🧑‍💼 Org / Career
 
-### Contribution - Spring Data Jpa
-- Refactor: Remove unused query parameter in getCountQuery method(https://github.com/spring-projects/spring-data-jpa/pull/3719)
+- **(Apr 2023 – Nov 2023)** Trainee, **SW Maestro 14th**
+- **(Apr 2023 – Nov 2024)** Member, **LikeLion (멋쟁이사자처럼)**
+- **(Apr 2024 – Jun 2024)** Backend Intern, **Mobile App Development Cooperative**
+- **(Jan 2025 – Jun 2025)** Java Developer, **Seculayer Inc.**
+- **(May 2024 – Oct 2025)** Member, **YAPP Tech Community**
 
-### Contribution - Redis lettuce
+---
 
-- replace hardcoded GT and LT with CommandKeyword enum (https://github.com/redis/lettuce/pull/3079)
+## 📜 Certificates & Tests
 
-- docs: update Limitations section to reflect shaded JAR deprecation (https://github.com/redis/lettuce/pull/3095)
+- **(Apr 2025)** AWS Certified Solutions Architect – Associate – *Amazon Web Services* – ✅ Pass  
+- **(Apr 2025)** Engineer Information Processing – *QNet (HRDK)* – ✅ Pass  
+- **(Mar 2023)** SQL Developer (SQLD) – *KData* – ✅ Pass  
+- **(Nov 2022)** Network Administrator Level 2 – *ICQA* – ✅ Pass  
+- **(Mar 2022)** Computer Specialist in Spreadsheet & Database Level 2 – ✅ Pass  
+
+---
+
+## 🔒 Private (Toy) Projects
+
+- **TeamPlanner** *(Apr 2023 – Nov 2023)*  
+  → *Spring Boot, MySQL, Layered Architecture, React*
+
+- **FlowBit** *(May 2024 – Dec 2024)*  
+  → *Spring Boot, Microservices Architecture, MongoDB, MySQL, Docker*
+
+---
+
+## 🏅 Awards & Contributions
+
+- 🥇 **K-PaaS Cloud Platform Contest** – Korea Cloud Association President’s Award *(2024)*  
+- 🏆 **Kangnam University Academic Festival** – 1st Place *(2023)*  
+- 🚀 **Wanted Pre-Onboarding Backend Challenge** – *(2024)*
+
+### 🔧 Open Source Contributions
+
+- [`yorkie`](https://github.com/yorkie-team/yorkie/pull/1296) – Add project API key rotation for enhanced security  
+- [`spring-boot`](https://github.com/spring-projects/spring-boot/issues/42972) – Add Date/UUID deserialization to `nullSafeValue`  
+- [`spring-boot`](https://github.com/spring-projects/spring-boot/pull/43441) – Add test for mapper transformation with `nullSafeValue`  
+- [`spring-data-jpa`](https://github.com/spring-projects/spring-data-jpa/pull/3719) – Refactor: remove unused query parameter in `getCountQuery`  
+- [`redis/lettuce`](https://github.com/redis/lettuce/pull/3079) – Replace hardcoded `GT`/`LT` with `CommandKeyword` enum  
+- [`redis/lettuce`](https://github.com/redis/lettuce/pull/3095) – Update documentation for shaded JAR deprecation
+
+---
+
+
+
 
 ### 최근 포스팅
 <span style="color:#4E5968; font-size:10px;">
