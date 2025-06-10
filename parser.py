@@ -34,7 +34,7 @@ I strive to deeply understand both technology and product context to build meani
 - **(Apr 2023 – Nov 2023)** Trainee, **SW Maestro 14th**
 - **(Apr 2023 – Nov 2024)** Member, **LikeLion (멋쟁이사자처럼)**
 - **(Apr 2024 – Jun 2024)** Backend Intern, **Mobile App Development Cooperative**
-- **(Jan 2025 – Jun 2025)** Java Developer, **Seculayer Inc.**
+- **(Jan 2025 – Jun 2025)** Java Developer, **Seculetter Inc.**
 - **(May 2024 – Oct 2025)** Member, **YAPP Tech Community**
 
 ---
@@ -54,13 +54,15 @@ I strive to deeply understand both technology and product context to build meani
 - **TeamPlanner** *(Apr 2023 – Nov 2023)*  
   → *Spring Boot, MySQL, Layered Architecture, React*
 
+- **FoodLog** *(July 2024 – Dec 2024)*  
+  → *Spring Boot, Flask, Mysql, AWS
+
 - **FlowBit** *(May 2024 – Dec 2024)*  
   → *Spring Boot, Microservices Architecture, MongoDB, MySQL, Docker*
-
 ---
 
 ## 🏅 Awards & Contributions
-
+- 🥈 **Kangnam University Capstone Festival** – 2nd Place *(2025)*
 - 🥇 **K-PaaS Cloud Platform Contest** – Korea Cloud Association President’s Award *(2024)*  
 - 🏆 **Kangnam University Academic Festival** – 1st Place *(2023)*  
 - 🚀 **Wanted Pre-Onboarding Backend Challenge** – *(2024)*
