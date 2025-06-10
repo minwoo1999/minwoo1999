@@ -27,7 +27,7 @@ I strive to deeply understand both technology and product context to build meani
 - **(Apr 2023 – Nov 2023)** Trainee, **SW Maestro 14th**
 - **(Apr 2023 – Nov 2024)** Member, **LikeLion (멋쟁이사자처럼)**
 - **(Apr 2024 – Jun 2024)** Backend Intern, **Mobile App Development Cooperative**
-- **(Jan 2025 – Jun 2025)** Java Developer, **Seculetter Inc.**
+- **(Jan 2025 – ing.....)** Java Developer, **Seculetter Inc.**
 - **(May 2024 – Oct 2025)** Member, **YAPP Tech Community**
 
 ---
