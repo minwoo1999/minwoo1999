@@ -59,6 +59,9 @@ I strive to deeply understand both technology and product context to build meani
 
 - **FlowBit** *(May 2024 – Dec 2024)*  
   → *Spring Boot, Microservices Architecture, ApiGateway, Spring batch, MongoDB, MySQL, Docker*
+
+- **[nklcb](https://www.nklcb.kr/)** *(May 2024 – Dec 2024)*  
+  → *Spring Boot, MySQL, Docker, AWS , Scheduled*
 ---
 
 ## 🏅 Awards & Contributions
