@@ -29,7 +29,7 @@ I strive to deeply understand both technology and product context to build meani
 - **(Apr 2024 – Jun 2024)** Backend Intern, **Mobile App Development Cooperative**
 - **(Jan 2025 – ing.....)** Java Developer, **Seculetter Inc.**
 - **(May 2025 – Oct 2025)** Member, **YAPP Tech Community**
-- **(July 2025 – Nov 2025)** Yorkie, **Mentee at Open Source Contribution Academy (OSCA)**
+- **(Jul 2025 – Nov 2025)** Yorkie, **Mentee at Open Source Contribution Academy (OSCA)**
 
 ---
 
