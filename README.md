@@ -66,6 +66,7 @@ I strive to deeply understand both technology and product context to build meani
 
 ### 🔧 Open Source Contributions
 
+- [`yorkie`](https://github.com/yorkie-team/yorkie/pull/1413) - fix: resolve flaky TestBatchExpiration/Process_Expire_Batch test
 - [`yorkie`](https://github.com/yorkie-team/yorkie/pull/1296) – Add project API key rotation for enhanced security  
 - [`spring-boot`](https://github.com/spring-projects/spring-boot/issues/42972) – Add Date/UUID deserialization to `nullSafeValue`  
 - [`spring-boot`](https://github.com/spring-projects/spring-boot/pull/43441) – Add test for mapper transformation with `nullSafeValue`  
