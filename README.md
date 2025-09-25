@@ -59,6 +59,7 @@ I strive to deeply understand both technology and product context to build meani
 ---
 
 ## 🏅 Awards & Contributions
+- 🥇 **YAPP 26th Demoday - 최우수상 2025.8 *(2025)*
 - 🥈 **Kangnam University Capstone Festival** – 2nd Place *(2025)*
 - 🥇 **K-PaaS Cloud Platform Contest** – Korea Cloud Association President’s Award *(2024)*  
 - 🏆 **Kangnam University Academic Festival** – 1st Place *(2023)*  
