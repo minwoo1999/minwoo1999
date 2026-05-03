@@ -27,9 +27,10 @@ I strive to deeply understand both technology and product context to build meani
 - **(Apr 2023 – Nov 2023)** Trainee, **SW Maestro 14th**
 - **(Apr 2023 – Nov 2024)** Member, **LikeLion (멋쟁이사자처럼)**
 - **(Apr 2024 – Jun 2024)** Backend Intern, **Mobile App Development Cooperative**
-- **(Jan 2025 – ing.....)** Java Developer, **Seculetter Inc.**
+- **(Jan 2025 – Oct 2025)** Java Developer, **Seculetter Inc.**
 - **(May 2025 – Oct 2025)** Member, **YAPP Tech Community**
 - **(Jul 2025 – Nov 2025)** Yorkie, **Mentee at Open Source Contribution Academy (OSCA)**
+- **(Nov 2025 – Present)** Infra & Backend Developer, **Silicon2 Co., Ltd.**
 
 ---
 
