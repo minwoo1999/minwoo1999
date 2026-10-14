@@ -31,6 +31,7 @@ I strive to deeply understand both technology and product context to build meani
 - **(May 2025 – Oct 2025)** Member, **YAPP Tech Community**
 - **(Jul 2025 – Nov 2025)** Yorkie, **Mentee at Open Source Contribution Academy (OSCA)**
 - **(Nov 2025 – Present)** Infra & Backend Developer, **Silicon2 Co., Ltd.**
+- **(Oct 2026 – Present)** Final Selected Team, **2026 모두의 AI 라운지 〈마이 AI 랩〉** – *성남 동네영상 AI 배리어프리 공방*
 
 ---
 
